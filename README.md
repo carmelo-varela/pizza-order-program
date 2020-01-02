@@ -9,3 +9,4 @@ Overview model of the user-interface along with the relevant data.
 ![ ](assets/add.png)
 ![ ](assets/edit.png)
 ![ ](assets/data.png)
+Extracts of the different enums created to support the application.
